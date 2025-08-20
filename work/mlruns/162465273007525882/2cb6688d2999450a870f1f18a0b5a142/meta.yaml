@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alejandro/Documents/Austral/GitHub/UA_MDM_Labo2/work/mlruns/162465273007525882/2cb6688d2999450a870f1f18a0b5a142/artifacts
+end_time: 1755416987068
+entry_point_name: ''
+experiment_id: '162465273007525882'
+lifecycle_stage: active
+run_id: 2cb6688d2999450a870f1f18a0b5a142
+run_name: trial_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755415125975
+status: 3
+tags: []
+user_id: alejandro

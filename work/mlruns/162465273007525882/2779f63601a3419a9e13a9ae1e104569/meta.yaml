@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alejandro/Documents/Austral/GitHub/UA_MDM_Labo2/work/mlruns/162465273007525882/2779f63601a3419a9e13a9ae1e104569/artifacts
+end_time: 1755474138730
+entry_point_name: ''
+experiment_id: '162465273007525882'
+lifecycle_stage: active
+run_id: 2779f63601a3419a9e13a9ae1e104569
+run_name: optuna_study_05 ResNet_1.0.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755408781092
+status: 3
+tags: []
+user_id: alejandro

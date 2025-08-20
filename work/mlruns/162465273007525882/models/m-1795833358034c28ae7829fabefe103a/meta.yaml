@@ -1,0 +1,10 @@
+artifact_location: file:///Users/alejandro/Documents/Austral/GitHub/UA_MDM_Labo2/work/mlruns/162465273007525882/models/m-1795833358034c28ae7829fabefe103a/artifacts
+creation_timestamp: 1755410382388
+experiment_id: '162465273007525882'
+last_updated_timestamp: 1755410387242
+model_id: m-1795833358034c28ae7829fabefe103a
+model_type: null
+name: model
+source_run_id: c8d6af352fd547baa4559f8eb8c25c86
+status: 2
+status_message: null

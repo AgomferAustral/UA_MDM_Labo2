@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alejandro/Documents/Austral/GitHub/UA_MDM_Labo2/work/mlruns/162465273007525882/f3566792592f427eadcb85f1ad084d18/artifacts
+end_time: 1755439749033
+entry_point_name: ''
+experiment_id: '162465273007525882'
+lifecycle_stage: active
+run_id: f3566792592f427eadcb85f1ad084d18
+run_name: optuna_trial_15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755437786046
+status: 3
+tags: []
+user_id: alejandro

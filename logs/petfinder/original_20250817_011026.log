@@ -1,0 +1,9 @@
+2025-08-17 01:10:26 | petfinder_original |     INFO | setup_professional_logging:63 | ================================================================================
+2025-08-17 01:10:26 | petfinder_original |     INFO | setup_professional_logging:64 | 🚀 INICIANDO EXPERIMENTO: petfinder - original
+2025-08-17 01:10:26 | petfinder_original |     INFO | setup_professional_logging:65 | 📁 Log file: ../logs/petfinder/original_20250817_011026.log
+2025-08-17 01:10:26 | petfinder_original |     INFO | setup_professional_logging:66 | 🕐 Timestamp: 2025-08-17 01:10:26
+2025-08-17 01:10:26 | petfinder_original |     INFO | setup_professional_logging:67 | ================================================================================
+2025-08-17 01:10:26 | petfinder_original |     INFO | <module>:75 | 📊 Configuración del experimento:
+2025-08-17 01:10:26 | petfinder_original |     INFO | <module>:76 |    ├── Proyecto: petfinder
+2025-08-17 01:10:26 | petfinder_original |     INFO | <module>:77 |    ├── Experimento: original
+2025-08-17 01:10:26 | petfinder_original |     INFO | <module>:78 |    └── Ciclos de entrenamiento: 2
