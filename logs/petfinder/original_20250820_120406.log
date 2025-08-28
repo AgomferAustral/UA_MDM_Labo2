@@ -72,3 +72,77 @@
 2025-08-20 12:04:08 | petfinder_original |     INFO | train_val:69 | 
 2025-08-20 12:04:08 | petfinder_original |     INFO | train_val:70 | 📊 ÉPOCA 1/2
 2025-08-20 12:04:08 | petfinder_original |     INFO | train_val:71 |    └── Tiempo actual: 12:04:08
+2025-08-20 12:24:26 | petfinder_original |     INFO | train_val:160 |       ├── 📈 TRAIN completado en 1218.0s
+2025-08-20 12:24:26 | petfinder_original |     INFO | train_val:161 |       ├── Loss: 1.422175
+2025-08-20 12:24:26 | petfinder_original |     INFO | train_val:162 |       ├── Accuracy: 30.31%
+2025-08-20 12:24:26 | petfinder_original |     INFO | train_val:166 |       └── Kappa: N/A (entrenamiento)
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:160 |       ├── 📈 VAL completado en 199.5s
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:161 |       ├── Loss: 1.386392
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:162 |       ├── Accuracy: 32.91%
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:164 |       └── Kappa: 0.269312
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:184 |       🏆 ¡NUEVO MEJOR MODELO!
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:185 |          ├── Mejor Accuracy: 32.91%
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:186 |          └── Mejor Kappa: 0.269312
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:220 |    ⏱️  Época 1 completada en 1418.6s
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:69 | 
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:70 | 📊 ÉPOCA 2/2
+2025-08-20 12:27:46 | petfinder_original |     INFO | train_val:71 |    └── Tiempo actual: 12:27:46
+2025-08-20 12:50:50 | petfinder_original |     INFO | train_val:160 |       ├── 📈 TRAIN completado en 1383.2s
+2025-08-20 12:50:50 | petfinder_original |     INFO | train_val:161 |       ├── Loss: 1.367178
+2025-08-20 12:50:50 | petfinder_original |     INFO | train_val:162 |       ├── Accuracy: 35.11%
+2025-08-20 12:50:50 | petfinder_original |     INFO | train_val:166 |       └── Kappa: N/A (entrenamiento)
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:160 |       ├── 📈 VAL completado en 164.4s
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:161 |       ├── Loss: 1.369348
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:162 |       ├── Accuracy: 34.78%
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:164 |       └── Kappa: 0.290388
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:184 |       🏆 ¡NUEVO MEJOR MODELO!
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:185 |          ├── Mejor Accuracy: 34.78%
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:186 |          └── Mejor Kappa: 0.290388
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:220 |    ⏱️  Época 2 completada en 1548.0s
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:227 | 
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:228 | 🏁 ENTRENAMIENTO COMPLETADO
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:229 |    ├── ⏱️  Tiempo total: 49m 27s
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:230 |    ├── 🎯 Mejor Accuracy: 34.78%
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:231 |    ├── 🏆 Mejor Kappa: 0.290388
+2025-08-20 12:53:34 | petfinder_original |     INFO | train_val:236 |    └── Entrenamiento único finalizado
+2025-08-20 12:53:34 | petfinder_original |     INFO | <module>:309 | 💾 GUARDANDO MODELO FINAL
+2025-08-20 12:53:35 | petfinder_original |     INFO | <module>:316 |    └── ✅ Modelo guardado: ../work/petfinder/optuna_temp_artifacts/05 ResNet_1.0.0_20250820_125334.pth
+2025-08-20 12:53:43 | petfinder_original |     INFO | <module>:332 |    └── ✅ Modelo final registrado en MLflow con signatura
+2025-08-20 12:53:43 | petfinder_original |     INFO | <module>:1 | 🔍 INICIANDO OPTIMIZACIÓN OPTUNA
+2025-08-20 12:53:43 | petfinder_original |     INFO | <module>:2 |    ├── Proyecto: petfinder
+2025-08-20 12:53:43 | petfinder_original |     INFO | <module>:3 |    ├── Modelo: 05 ResNet_1.0.0
+2025-08-20 12:53:43 | petfinder_original |     INFO | <module>:4 |    ├── Base de datos: ../work/petfinder/db.sqlite3
+2025-08-20 12:53:43 | petfinder_original |     INFO | <module>:5 |    └── Número de trials: 20
+2025-08-20 12:53:45 | petfinder_original |     INFO | <module>:25 | 🚀 Comenzando optimización...
+2025-08-20 12:53:45 | petfinder_original |     INFO | optuna_train:6 | ============================================================
+2025-08-20 12:53:45 | petfinder_original |     INFO | optuna_train:7 | 🔬 INICIANDO OPTUNA TRIAL #20
+2025-08-20 12:53:45 | petfinder_original |     INFO | optuna_train:13 |    ├── Hiperparámetros sugeridos:
+2025-08-20 12:53:45 | petfinder_original |     INFO | optuna_train:14 |    ├──   Epochs: 2
+2025-08-20 12:53:45 | petfinder_original |     INFO | optuna_train:15 |    ├──   Learning Rate: 0.015796
+2025-08-20 12:53:45 | petfinder_original |     INFO | optuna_train:16 |    └──   Momentum: 0.5262
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:5 | ================================================================================
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:6 | 🚀 INICIANDO ENTRENAMIENTO - Trial 20
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:7 |    ├── Learning rate: 0.01579622847726678
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:8 |    ├── Momentum: 0.5261940174975408
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:9 |    ├── Épocas: 2
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:10 |    ├── Dispositivo: mps
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:11 |    ├── Tamaño entrenamiento: 11994 muestras
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:12 |    └── Tamaño validación: 2999 muestras
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:69 | 
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:70 | 📊 ÉPOCA 1/2
+2025-08-20 12:53:45 | petfinder_original |     INFO | train_val:71 |    └── Tiempo actual: 12:53:45
+2025-08-20 13:13:43 | petfinder_original |     INFO | train_val:160 |       ├── 📈 TRAIN completado en 1197.8s
+2025-08-20 13:13:43 | petfinder_original |     INFO | train_val:161 |       ├── Loss: 1.342390
+2025-08-20 13:13:43 | petfinder_original |     INFO | train_val:162 |       ├── Accuracy: 36.76%
+2025-08-20 13:13:43 | petfinder_original |     INFO | train_val:166 |       └── Kappa: N/A (entrenamiento)
+2025-08-20 13:16:39 | petfinder_original |     INFO | train_val:160 |       ├── 📈 VAL completado en 176.4s
+2025-08-20 13:16:39 | petfinder_original |     INFO | train_val:161 |       ├── Loss: 1.358459
+2025-08-20 13:16:39 | petfinder_original |     INFO | train_val:162 |       ├── Accuracy: 35.78%
+2025-08-20 13:16:39 | petfinder_original |     INFO | train_val:164 |       └── Kappa: 0.306642
+2025-08-20 13:16:39 | petfinder_original |     INFO | train_val:184 |       🏆 ¡NUEVO MEJOR MODELO!
+2025-08-20 13:16:41 | petfinder_original |     INFO | train_val:185 |          ├── Mejor Accuracy: 35.78%
+2025-08-20 13:16:41 | petfinder_original |     INFO | train_val:186 |          └── Mejor Kappa: 0.306642
+2025-08-20 13:16:41 | petfinder_original |     INFO | train_val:220 |    ⏱️  Época 1 completada en 1375.8s
+2025-08-20 13:16:41 | petfinder_original |     INFO | train_val:69 | 
+2025-08-20 13:16:41 | petfinder_original |     INFO | train_val:70 | 📊 ÉPOCA 2/2
+2025-08-20 13:16:41 | petfinder_original |     INFO | train_val:71 |    └── Tiempo actual: 13:16:41

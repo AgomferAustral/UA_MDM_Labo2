@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/alejandro/Documents/Austral/GitHub/UA_MDM_Labo2/work/petfinder/mlruns/336919727867869037/37aa6ae3d07346e6adc16ac33498a956/artifacts
+end_time: 1755713214673
+entry_point_name: ''
+experiment_id: '336919727867869037'
+lifecycle_stage: active
+run_id: 37aa6ae3d07346e6adc16ac33498a956
+run_name: single_run_20250820_141936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755710376506
+status: 3
+tags: []
+user_id: alejandro
